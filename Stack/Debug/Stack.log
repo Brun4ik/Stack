@@ -1,0 +1,3 @@
+﻿  Stack.cpp
+G:\visualprojects\Stack\Stack\Stack.cpp(98): warning C4715: Pop: значение возвращается не при всех путях выполнения
+  Stack.vcxproj -> G:\visualprojects\Stack\Debug\Stack.exe
